@@ -9,3 +9,5 @@ são as pastas dos projetos .
 união de duas branches.
 ## o que é pull.
 é buscar informações no repositório local.
+## o que é branch?
+são ramificações .
