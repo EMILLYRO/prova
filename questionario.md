@@ -11,3 +11,6 @@ união de duas branches.
 é buscar informações no repositório local.
 ## o que é branch?
 são ramificações .
+## o que é pull request?
+é o pedido de autorização que o usuario pede para o "dono" do projeto 
+pedindo que suas modificações(acrementaçoes) façam paret do projeto oficial . 
