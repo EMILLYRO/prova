@@ -13,4 +13,4 @@ união de duas branches.
 são ramificações .
 ## o que é pull request?
 é o pedido de autorização que o usuario pede para o "dono" do projeto 
-pedindo que suas modificações(acrementaçoes) façam paret do projeto oficial . 
+pedindo que suas modificações(acrementaçoes) façam parte do projeto oficial . 
