@@ -5,3 +5,7 @@
 é "embalar" as imformações feita no projeto.
 ## o que é um repositório?
 são as pastas dos projetos .
+## o que é marge?
+união de duas branches.
+## o que é pull.
+é buscar informações.
