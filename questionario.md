@@ -8,4 +8,4 @@ são as pastas dos projetos .
 ## o que é marge?
 união de duas branches.
 ## o que é pull.
-é buscar informações.
+é buscar informações no repositório local.
